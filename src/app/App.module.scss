@@ -1,0 +1,17 @@
+.header {
+  padding: 0.5em;
+  text-align: center;
+
+  background-color: white;
+  box-shadow: 0 0 1em rgba(black, 0.5);
+}
+
+.main {
+  padding: 1em;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 1em;
+}
